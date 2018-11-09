@@ -5,7 +5,6 @@ public class Main {
 
         System.out.println("cm1");
         System.out.println("cm2");
-        System.out.println("cm3");
 
 
 
